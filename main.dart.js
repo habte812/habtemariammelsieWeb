@@ -79204,7 +79204,7 @@ A.Rh.prototype={
 xs(){var s=0,r=A.N(t.aS),q,p,o
 var $async$xs=A.J(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=3
-return A.P(A.axM(A.e7("http://127.0.0.1:8000/api/projects/",0,null)),$async$xs)
+return A.P(A.axM(A.e7("https://habtemariammelsie.pythonanywhere.com/api/projects/",0,null)),$async$xs)
 case 3:o=b
 if(o.b===200){p=J.iR(B.c7.e3(0,A.axH(A.awK(o.e)).e3(0,o.w)),new A.ajf(),t.hF)
 q=A.a5(p,!0,p.$ti.i("am.E"))
@@ -79325,7 +79325,7 @@ A.SM.prototype={
 xu(){var s=0,r=A.N(t.Vw),q,p,o
 var $async$xu=A.J(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=3
-return A.P(A.axM(A.e7("http://127.0.0.1:8000/api/skills/",0,null)),$async$xu)
+return A.P(A.axM(A.e7("https://habtemariammelsie.pythonanywhere.com/api/skills/",0,null)),$async$xu)
 case 3:o=b
 if(o.b===200){p=J.iR(B.c7.e3(0,A.axH(A.awK(o.e)).e3(0,o.w)),new A.akN(),t.BS)
 q=A.a5(p,!0,p.$ti.i("am.E"))
